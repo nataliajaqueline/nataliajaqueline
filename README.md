@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas
 
-<!--
-**nataliajaqueline/nataliajaqueline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do terceiro colegial
 
-Here are some ideas to get you started:
+Faço curso de robotica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudo na Escola Ruth dalva
+
+Entre em contato comigo 📫
+
+00001095724812sp@aluno.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/SFj-19Vp3YkAAAAC/kiss-flying.gif)
